@@ -1,12 +1,12 @@
 # script-language-fibo-benchmarks
-benchmarks of several script languages found github
+Benchmarks of several script languages found github
 
 ### Method
-The tests were made on Win10 64 bits Desktop with Intel i7-8700 CPU @ 3.2 GHz and 16GB of RAM.
+The tests were made on Win10 64 bits Desktop with Intel i7-8700 CPU @ 3.2 GHz and 16 GB of RAM.
 Linux ( Ubuntu 18.04.2 LTS, bionic) was installed under Windows from the [MicroSoft Store ](https://www.microsoft.com/en-us/p/ubuntu-1804-lts/9n9tngvndl3q?activetab=pivot:overviewtab "Win Store ") 
 
 All the projects were compiled with:
-- Linux gcc v7.4 when or clang-3.9 when LLVM was required. Flag -O3 was used in all projects.
+- Linux gcc v7.4 (or clang-3.9 when LLVM was required). Flag -O3 was used in all projects.
 - Win: Visual Studio 2019, target x64, optimization Flag /O2
 
 ### Results
@@ -63,5 +63,5 @@ All the projects were compiled with:
 
 
 ### Comments
-- JIT boosts performances w.r.t Register or stack based Virtual machine.
-- gcc -O3 produce often faster code than VS2019.
+- JIT boosts performances w.r.t register or stack based Virtual Machine.
+- gcc -O3 produce often executable which is faster than that produced by VS2019.
