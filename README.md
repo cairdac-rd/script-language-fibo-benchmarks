@@ -1,6 +1,7 @@
 # Script-Language-Fibo-Benchmarks
 
-Benchmarks of several script languages found github
+Benchmarks of several script languages found on github.
+Only the execution time of the fibbonacci function was used in the comparaison (fib(36) = 14930352).
 
 ### Method
 The tests were made on Win10 64 bits Desktop with Intel i7-8700 CPU @ 3.2 GHz and 16 GB of RAM.
