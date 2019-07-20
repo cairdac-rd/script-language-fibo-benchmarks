@@ -1,7 +1,18 @@
 # Script-Language-Fibo-Benchmarks
 
 Benchmarks of several script languages found on github.
-Only the execution time of the fibbonacci function was used in the comparaison (fib(36) = 14930352).
+Only the execution time of the Recursive Fibonacci function was used in the comparaison.
+
+The matab version of the fib function is :
+```
+function y = fib(n)
+  if (n<2)
+     y=n;
+  else
+     y=fib(n-1)+fib(n-2);
+
+```
+fib(36) = 14930352.
 
 ### Method
 The tests were made on Win10 64 bits Desktop with Intel i7-8700 CPU @ 3.2 GHz and 16 GB of RAM.
@@ -12,7 +23,7 @@ The projects were compiled with:
 - Win: Visual Studio 2019, target x64, optimization Flag /O2
 
 ### Results
-|  Script Language |  Win64/Linux |  Exec time of Fib(36) in seconds|
+|  Script Language |  Win64/Linux |  Execution time of Fib(36) in seconds|
 | ------------ | ------------ | ------------ |
 | [nickel](https://github.com/owst/nickel "nickel ") w LLVM JIT |  Linux |  0.09 |
 | [vvn ](https://github.com/MichaelRFairhurst/vaiven "vvn ") w ASMJIT|  Linux | 0.09  |
