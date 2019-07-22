@@ -40,6 +40,7 @@ The projects were compiled with:
 | [fin](https://github.com/naleksiev/fin)  | Linux  | 1 |
 | [Tagha](https://github.com/assyrianic/Tagha)  | Linux  | 1.1 |
 | [fin](https://github.com/naleksiev/fin) | Win | 1.2 |
+| [rubi](https://github.com/embedded2015/rubi) w JIT| Win32 | 1.3 |
 | [badgerscript](https://github.com/moefh/badgerscript) | Linux | 1.4  |
 | [Killa](https://github.com/ex/Killa) | Linux | 1.4 |
 | [clox](https://github.com/munificent/craftinginterpreters)  | Linux  | 1.4 |
