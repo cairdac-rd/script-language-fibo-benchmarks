@@ -65,6 +65,8 @@ The projects were compiled with:
 | Matlab2018b (1st run)  |  Win | 3.1  |
 | [ink-ivm](https://github.com/rod-lin/ivm)  | Linux  | 3.2  |
 | [p++](https://github.com/tumtumtum/pplusplus)   | Linux  | 3.2 |
+| [poca](https://github.com/BeRo1985/poca )   | Win | 3.8 |
+| [KernScript](https://github.com/redagito/KernScript )   | Linux | 3.9 |
 | [nickel](https://github.com/owst/nickel) no jit  | Linux  | 4.3  |
 | [moon_lang](https://github.com/glampert/moon-lang)  | Linux   | 4.8  |
 | [JetScript](https://github.com/matt-attack/JetScript)   | Linux  | 5.2 |
