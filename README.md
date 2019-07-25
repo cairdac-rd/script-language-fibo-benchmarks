@@ -69,12 +69,14 @@ The projects were compiled with:
 | [poca](https://github.com/BeRo1985/poca )   | Win32-Delphi | 3.8 |
 | [KernScript](https://github.com/redagito/KernScript )   | Linux | 3.9 |
 | [nickel](https://github.com/owst/nickel) no jit  | Linux  | 4.3  |
+| [gravity](https://github.com/marcobambini/gravity)  | Linux  | 4.7  |
 | [moon_lang](https://github.com/glampert/moon-lang)  | Linux   | 4.8  |
 | [JetScript](https://github.com/matt-attack/JetScript)   | Linux  | 5.2 |
 | [luna](https://github.com/airtrack/luna)  | Linux   | 5.7  |
 | [luna](https://github.com/airtrack/luna)   | Win  | 6.6  |
 | [yasl](https://github.com/yasl-lang/yasl)  | Linux  | 7.3  |
 | [rho](https://github.com/arshajii/rho)  | Linux  | 8.5 |
+| [gravity](https://github.com/marcobambini/gravity)  | Win | 9  |
 | [aria](https://github.com/rxi/aria)  | Linux  | 9  |
 
 
