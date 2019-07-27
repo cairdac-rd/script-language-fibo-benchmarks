@@ -47,6 +47,7 @@ The projects were compiled with:
 | [clox](https://github.com/munificent/craftinginterpreters)  | Linux  | 1.4 |
 | [lily](https://github.com/FascinatedBox/lily)  | Linux  | 1.4 |
 | [badgerscript](https://github.com/moefh/badgerscript)  | Win   | 1.6  |
+| [lily](https://github.com/FascinatedBox/lily)  | Win  | 1.6 |
 | [PL0-Compiler](https://github.com/Justme0/pl0-compiler)  | Linux  | 1.6  |
 | [c4](https://github.com/rswier/c4)  | Linux | 1.7  |
 | [fake](https://github.com/esrrhs/fake) w -jit  | Win  | 1.7 |
