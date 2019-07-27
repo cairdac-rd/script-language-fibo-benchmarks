@@ -50,6 +50,7 @@ The projects were compiled with:
 | [fake](https://github.com/esrrhs/fake) w -jit  | Win  | 1.7 |
 | [golem](https://github.com/alexander-koch/golem)  | Linux | 1.7 |
 | Lua 5.2.4 (from ubuntu distr)  | Linux  | 1.7 |
+| [wren](https://github.com/wren-lang/wren)  | Linux | 1.7 |
 | [PL0-Compiler](https://github.com/Justme0/pl0-compiler)  | Win  | 1.8  |
 | [loxx](https://github.com/mspraggs/loxx)  | Linux | 1.9  |
 | [janet](https://github.com/jfcap/janet)  | Linux  | 2  |
@@ -66,11 +67,12 @@ The projects were compiled with:
 | Matlab2018b (1st run)  |  Win | 3.1  |
 | [ink-ivm](https://github.com/rod-lin/ivm)  | Linux  | 3.2  |
 | [p++](https://github.com/tumtumtum/pplusplus)   | Linux  | 3.2 |
+| [mujs](https://github.com/jarhot1992/mujs)   | Linux  | 3.5 |
 | [poca](https://github.com/BeRo1985/poca )   | Win32-Delphi | 3.8 |
 | [KernScript](https://github.com/redagito/KernScript )   | Linux | 3.9 |
 | [nickel](https://github.com/owst/nickel) no jit  | Linux  | 4.3  |
 | [gravity](https://github.com/marcobambini/gravity)  | Linux  | 4.7  |
-| [moon_lang](https://github.com/glampert/moon-lang)  | Linux   | 4.8  |
+| [moon-lang](https://github.com/glampert/moon-lang)  | Linux   | 4.8  |
 | [JetScript](https://github.com/matt-attack/JetScript)   | Linux  | 5.2 |
 | [luna](https://github.com/airtrack/luna)  | Linux   | 5.7  |
 | [luna](https://github.com/airtrack/luna)   | Win  | 6.6  |
