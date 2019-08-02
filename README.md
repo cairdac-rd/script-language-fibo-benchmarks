@@ -56,6 +56,7 @@ The projects were compiled with:
 | Lua 5.2.4 (from ubuntu distr)  | Linux  | 1.7 |
 | [wren](https://github.com/wren-lang/wren)  | Linux | 1.7 |
 | [PL0-Compiler](https://github.com/Justme0/pl0-compiler)  | Win  | 1.8  |
+| [useless](https://github.com/CCareaga/useless)  | Linux | 1.8  |
 | [loxx](https://github.com/mspraggs/loxx)  | Linux | 1.9  |
 | [janet](https://github.com/jfcap/janet)  | Linux  | 2  |
 | [gmscript](https://github.com/publicrepo/gmscript)  | Win  | 2.3 |
@@ -79,6 +80,7 @@ The projects were compiled with:
 | [moon-lang](https://github.com/glampert/moon-lang)  | Linux   | 4.8  |
 | [JetScript](https://github.com/matt-attack/JetScript)   | Linux  | 5.2 |
 | [luna](https://github.com/airtrack/luna)  | Linux   | 5.7  |
+| [VCL](https://github.com/dianpeng/VCL)  | Linux   | 6.3  |
 | [luna](https://github.com/airtrack/luna)   | Win  | 6.6  |
 | [yasl](https://github.com/yasl-lang/yasl)  | Linux  | 7.3  |
 | [rho](https://github.com/arshajii/rho)  | Linux  | 8.5 |
