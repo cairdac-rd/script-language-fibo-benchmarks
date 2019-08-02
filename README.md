@@ -25,7 +25,8 @@ The projects were compiled with:
 ### Results
 |  Script Language |  Win64/Linux |  Execution time of Fib(36) in seconds|
 | ------------ | ------------ | ------------ |
-| [nickel](https://github.com/owst/nickel "nickel ") w LLVM JIT |  Linux |  0.09 |
+| [calc4](https://github.com/proprowataya/calc4 ) w LLVM JIT |  Linux |  0.06 |
+| [nickel](https://github.com/owst/nickel) w LLVM JIT |  Linux |  0.09 |
 | [vaiven](https://github.com/MichaelRFairhurst/vaiven "vvn ") w ASMJIT|  Linux | 0.09  |
 | [tourmaline](https://github.com/maekawatoshiki/tourmaline/tree/cmake) w LLVM JIT| Linux  | 0.09  |
 | [exolang](https://github.com/twixraider81/exolang) w LLVM JIT | Linux  | 0.1 |
