@@ -81,12 +81,20 @@ The projects were compiled with:
 | [moon-lang](https://github.com/glampert/moon-lang)  | Linux   | 4.8  |
 | [JetScript](https://github.com/matt-attack/JetScript)   | Linux  | 5.2 |
 | [luna](https://github.com/airtrack/luna)  | Linux   | 5.7  |
+| [KernScript](https://github.com/redagito/KernScript )   | Win | 5.9 |
+| [strawberry](https://github.com/Eronana/strawberry)  | Linux   | 6  |
 | [VCL](https://github.com/dianpeng/VCL)  | Linux   | 6.3  |
 | [luna](https://github.com/airtrack/luna)   | Win  | 6.6  |
 | [yasl](https://github.com/yasl-lang/yasl)  | Linux  | 7.3  |
 | [rho](https://github.com/arshajii/rho)  | Linux  | 8.5 |
 | [gravity](https://github.com/marcobambini/gravity)  | Win | 9  |
 | [aria](https://github.com/rxi/aria)  | Linux  | 9  |
+| [IFJ-14-Pascal](https://github.com/vmasek/IFJ-14)  | Linux  | 9.8  |
+| [Ark](https://github.com/SuperFola/Ark)  | Linux  | 10.4  |
+| [lox](https://github.com/zanders3/lox)  | Linux  | 11.7  |
+| [smudge](https://github.com/rimuz/smudge)  | Linux  | 12.4  |
+| [besen](https://github.com/BeRo1985/besen)  | Win32-Delphi  | 13.4  |
+| [pure](https://github.com/dianpeng/pure)  | Win32-Delphi  | 13.5  |
 
 
 ### Comments
