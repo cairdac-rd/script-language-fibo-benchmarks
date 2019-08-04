@@ -94,7 +94,7 @@ The projects were compiled with:
 | [lox](https://github.com/zanders3/lox)  | Linux  | 11.7  |
 | [smudge](https://github.com/rimuz/smudge)  | Linux  | 12.4  |
 | [besen](https://github.com/BeRo1985/besen)  | Win32-Delphi  | 13.4  |
-| [pure](https://github.com/dianpeng/pure)  | Win32-Delphi  | 13.5  |
+| [pure](https://github.com/dianpeng/pure)  | Linux | 13.5  |
 
 
 ### Comments
