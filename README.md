@@ -25,6 +25,8 @@ The projects were compiled with:
 ### Results
 |  Script Language |  Win64/Linux |  Execution time of Fib(36) in seconds|
 | ------------ | ------------ | ------------ |
+| C executable with gcc-7.3|  Linux |  0.03 |
+| C executable with VS 2019|  Win |  0.065 |
 | [calc4](https://github.com/proprowataya/calc4 ) w LLVM JIT |  Linux |  0.06 |
 | [nickel](https://github.com/owst/nickel) w LLVM JIT |  Linux |  0.09 |
 | [vaiven](https://github.com/MichaelRFairhurst/vaiven "vvn ") w ASMJIT|  Linux | 0.09  |
@@ -94,7 +96,7 @@ The projects were compiled with:
 | [lox](https://github.com/zanders3/lox)  | Linux  | 11.7  |
 | [smudge](https://github.com/rimuz/smudge)  | Linux  | 12.4  |
 | [besen](https://github.com/BeRo1985/besen)  | Win32-Delphi  | 13.4  |
-| [pure](https://github.com/dianpeng/pure)  | Linux | 13.5  |
+| [pure](https://github.com/dianpeng/pure)  | Linux | 14  |
 
 
 ### Comments
