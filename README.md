@@ -101,4 +101,4 @@ The projects were compiled with:
 
 ### Comments
 - JIT boosts performances w.r.t register or stack based Virtual Machine.
-- gcc-7/g++-7 -O3 produce often executable which is faster than that produced by VS2019. gcc-8.3 code is slower than gcc-7.4.
+- gcc-7/g++-7 -O3 produce often executable which is faster than that produced by VS2019.
