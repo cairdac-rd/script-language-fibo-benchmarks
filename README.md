@@ -97,6 +97,7 @@ The projects were compiled with:
 | [smudge](https://github.com/rimuz/smudge)  | Linux  | 12.4  |
 | [besen](https://github.com/BeRo1985/besen)  | Win32-Delphi  | 13.4  |
 | [pure](https://github.com/dianpeng/pure)  | Linux | 14  |
+| [P - Pascal](https://github.com/rmerkel/P)  | Linux | 14.5  |
 
 
 ### Comments
