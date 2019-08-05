@@ -36,6 +36,7 @@ The projects were compiled with:
 | [BeRoScript](http://bero.0ok.de/blog/projects/beroscript/BeRoScript.zip) | Win32-Delphi  | 0.17  |
 | [Stackjit](https://github.com/svenslaggare/StackJIT) | Linux  | 0.2  |
 | nodejs v8.10.0 (from ubuntu distr)| Linux  | 0.4  |
+| [am-lang](https://github.com/patrykstefanski/am-lang)  | Win  | 0.5 |
 | [yaz_vm](https://github.com/cairdac-rd/yaz_vm)  | Linux  | 0.5 |
 | [am-lang](https://github.com/patrykstefanski/am-lang)  | Linux  | 0.55 |
 | [yaz_vm](https://github.com/cairdac-rd/yaz_vm)  | Win  | 0.6 |
