@@ -37,6 +37,7 @@ The projects were compiled with:
 | [Stackjit](https://github.com/svenslaggare/StackJIT) | Linux  | 0.2  |
 | nodejs v8.10.0 (from ubuntu distr)| Linux  | 0.4  |
 | [yaz_vm](https://github.com/cairdac-rd/yaz_vm)  | Linux  | 0.5 |
+| [am-lang](https://github.com/patrykstefanski/am-lang)  | Linux  | 0.55 |
 | [yaz_vm](https://github.com/cairdac-rd/yaz_vm)  | Win  | 0.6 |
 | [dash](https://github.com/eqrion/dash)  | Win  | 0.7 |
 | Matlab2018b (2nd run)  | Win  | 0.85 |
