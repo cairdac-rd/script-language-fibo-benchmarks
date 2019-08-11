@@ -19,7 +19,7 @@ The tests were made on Win10 64 bits Desktop with Intel i7-8700 CPU @ 3.2 GHz an
 Linux ( Ubuntu 18.04.2 LTS, bionic) was installed under Windows from the [MicroSoft Store ](https://www.microsoft.com/en-us/p/ubuntu-1804-lts/9n9tngvndl3q?activetab=pivot:overviewtab) 
 
 The projects were compiled with:
-- Linux gcc v7.4 (or clang-3.9 when LLVM was required). Flag -O3 was used in all projects.
+- Linux gcc v7.4 (using LLVM-3.9, LLVM-6.0 or LLVM-8.0 was required). Flag -O3 was used in all projects.
 - Win: Visual Studio 2019, target x64, optimization Flag /O2
 
 ### Results
@@ -36,6 +36,7 @@ The projects were compiled with:
 | [luajit 2.1.0-beta3](http://luajit.org/) w DYNASM | Linux   | 0.12  |
 | [BeRoScript](http://bero.0ok.de/blog/projects/beroscript/BeRoScript.zip) | Win32-Delphi  | 0.17  |
 | [liquid](https://github.com/xkbeyer/liquid) w LLVM JIT | Linux  | 0.14 |
+| [shlc](https://github.com/Azegor/shlc) w LLVM JIT | Linux  | 0.14 |
 | [Stackjit](https://github.com/svenslaggare/StackJIT) | Linux  | 0.2  |
 | nodejs v8.10.0 (from ubuntu distr)| Linux  | 0.4  |
 | [am-lang](https://github.com/patrykstefanski/am-lang)  | Win  | 0.5 |
@@ -43,6 +44,7 @@ The projects were compiled with:
 | [am-lang](https://github.com/patrykstefanski/am-lang)  | Linux  | 0.55 |
 | [yaz_vm](https://github.com/cairdac-rd/yaz_vm)  | Win  | 0.6 |
 | [dash](https://github.com/eqrion/dash)  | Win  | 0.7 |
+| [ravi](https://github.com/dibyendumajumdar/ravi)  | Win  | 0.85 |
 | Matlab2018b (2nd run)  | Win  | 0.85 |
 | [berry](https://github.com/Skiars/berry)  | Linux  | 0.9  |
 | [berry](https://github.com/Skiars/berry)  | Win |  1 |
