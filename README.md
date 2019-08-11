@@ -34,6 +34,7 @@ The projects were compiled with:
 | [exolang](https://github.com/twixraider81/exolang) w LLVM JIT | Linux  | 0.1 |
 | [leekscript](https://github.com/leek-wars/leekscript) w LLVM JIT | Linux  | 0.1 |
 | [luajit 2.1.0-beta3](http://luajit.org/) w DYNASM | Linux   | 0.12  |
+| [tuplex](https://github.com/TuplexLanguage/tuplex) w LLVM | Linux   | 0.12  |
 | [BeRoScript](http://bero.0ok.de/blog/projects/beroscript/BeRoScript.zip) | Win32-Delphi  | 0.17  |
 | [liquid](https://github.com/xkbeyer/liquid) w LLVM JIT | Linux  | 0.14 |
 | [shlc](https://github.com/Azegor/shlc) w LLVM JIT | Linux  | 0.14 |
