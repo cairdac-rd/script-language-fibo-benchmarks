@@ -6,7 +6,7 @@ Compiling with LLVM-6.0 & gcc-7.4 is OK.
 
 Tuplex loads several library files at startup. The "print" function is part of these library functions.
 
-In order to start tuplex without loading the whole library files we use teh -notx switch :
+In order to start tuplex without loading the whole library files we use the "-notx" switch :
 ```
 time ./bin/txc -jit -nobc -vquiet -notx fib.tx
 ```
