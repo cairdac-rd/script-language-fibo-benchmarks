@@ -1,0 +1,8 @@
+fn fib of x is
+  if x < 2
+    ret x
+  end
+  ret fib(x - 1) + fib(x - 2)
+end
+
+fib(36)
