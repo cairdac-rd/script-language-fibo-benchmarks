@@ -35,10 +35,10 @@ The projects were compiled with:
 | [leekscript](https://github.com/leek-wars/leekscript) w LLVM JIT | Linux  | 0.1 |
 | [luajit 2.1.0-beta3](http://luajit.org/) w DYNASM | Linux   | 0.12  |
 | [tuplex](https://github.com/TuplexLanguage/tuplex) w LLVM | Linux   | 0.12  |
-| [BeRoScript](http://bero.0ok.de/blog/projects/beroscript/BeRoScript.zip) | Win32-Delphi  | 0.17  |
 | [liquid](https://github.com/xkbeyer/liquid) w LLVM JIT | Linux  | 0.14 |
 | [shlc](https://github.com/Azegor/shlc) w LLVM JIT | Linux  | 0.14 |
 | [floyd](https://github.com/Floydlang/floyd) w LLVM | Linux  | 0.14 |
+| [BeRoScript](http://bero.0ok.de/blog/projects/beroscript/BeRoScript.zip) | Win32-Delphi  | 0.17  |
 | [Stackjit](https://github.com/svenslaggare/StackJIT) | Linux  | 0.2  |
 | nodejs v8.10.0 (from ubuntu distr)| Linux  | 0.4  |
 | [am-lang](https://github.com/patrykstefanski/am-lang)  | Win  | 0.5 |
